@@ -1,0 +1,26 @@
+Hello, In this script i am printing '*' trianngle
+
+
+ * 
+ *  * 
+ *  *  * 
+ *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  *  * 
+ *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  * 
+ 
+ *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  * 
+ *  *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  * 
+ *  *  * 
+ *  * 
+ * 
+printed reverse triangle.!
+APPEND to output.txt succesfull. TASK_2 completed.!
